@@ -1,0 +1,25 @@
+{
+  "name": "justweb-cli",
+  "version": "0.0.0",
+  "description": "JustWeb.Tech CLI Tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JustWebTech/justweb-cli.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "Justin Weberg <justin.weberg@justweb.tech>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustWebTech/justweb-cli/issues"
+  },
+  "homepage": "https://github.com/JustWebTech/justweb-cli#readme",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
